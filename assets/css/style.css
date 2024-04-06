@@ -30,3 +30,16 @@
 .main-timeline3 .timeline:nth-child(2n) .year{right:auto;left:-20px;border-radius:10px 10px 10px 0}
 .main-timeline3 .timeline:nth-child(2n) .year:before{border-left:20px solid transparent;border-bottom:20px solid transparent;border-right:none;right:auto;left:0}
 }
+
+.bg-cards{
+    background-color: #e9e9e7;
+}
+
+.bg-intermedios{
+    background-color:#252A2E;
+}
+
+.img-cv{
+    border-radius: 30%;
+    width: 20%;
+}

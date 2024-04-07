@@ -19,7 +19,7 @@
 .main-timeline3 .timeline:first-child,.main-timeline3 .timeline:last-child:nth-child(even){margin:0}
 .main-timeline3 .timeline:nth-child(3n):before{background:#00695C;box-shadow:0 0 1px 5px #00695C}
 .main-timeline3 .timeline:nth-child(3n) .year{background:#00695C}
-.main-timeline3 .timeline:nth-child(3n) .year:before{border-top-color:##00695C}
+.main-timeline3 .timeline:nth-child(3n) .year:before{border-top-color:#00695C}
 @media only screen and (max-width:990px){.main-timeline3:before{top:8%}
 .main-timeline3 .timeline{padding:10px 10px 10px 100px}
 .main-timeline3 .timeline:nth-child(2n){padding:10px 100px 10px 10px}
